@@ -1,0 +1,22 @@
+C:\Users\Quang\documents\visual studio 2010\Projects\MYB\MYB\bin\Debug\MYB.exe
+C:\Users\Quang\documents\visual studio 2010\Projects\MYB\MYB\bin\Debug\MYB.pdb
+C:\Users\Quang\documents\visual studio 2010\Projects\MYB\MYB\obj\x86\Debug\MYB.Properties.Resources.resources
+C:\Users\Quang\documents\visual studio 2010\Projects\MYB\MYB\obj\x86\Debug\MYB.csproj.GenerateResource.Cache
+C:\Users\Quang\documents\visual studio 2010\Projects\MYB\MYB\obj\x86\Debug\MYB.exe
+C:\Users\Quang\documents\visual studio 2010\Projects\MYB\MYB\obj\x86\Debug\MYB.pdb
+C:\Users\Quang\documents\visual studio 2010\Projects\MYB\MYB\obj\x86\Debug\MYB.frm_AdminPanel.resources
+C:\Users\Quang\documents\visual studio 2010\Projects\MYB\MYB\obj\x86\Debug\MYB.frmMain.resources
+C:\Users\Quang\documents\visual studio 2010\Projects\MYB\MYB\obj\x86\Debug\MYB.frm_login.resources
+C:\Users\Quang\documents\visual studio 2010\Projects\MYB\MYB\bin\Debug\MYB.exe.config
+C:\Users\Quang\documents\visual studio 2010\Projects\MYB\MYB\obj\x86\Debug\MYB.csprojResolveAssemblyReference.cache
+E:\NIIT\MYB\MYB\bin\Debug\MYB.exe.config
+E:\NIIT\MYB\MYB\obj\x86\Debug\MYB.exe
+E:\NIIT\MYB\MYB\obj\x86\Debug\MYB.pdb
+E:\NIIT\MYB\MYB\bin\Debug\MYB.exe
+E:\NIIT\MYB\MYB\bin\Debug\MYB.pdb
+E:\NIIT\MYB\MYB\obj\x86\Debug\MYB.frm_AdminPanel.resources
+E:\NIIT\MYB\MYB\obj\x86\Debug\MYB.frmMain.resources
+E:\NIIT\MYB\MYB\obj\x86\Debug\MYB.frm_login.resources
+E:\NIIT\MYB\MYB\obj\x86\Debug\MYB.Properties.Resources.resources
+E:\NIIT\MYB\MYB\obj\x86\Debug\MYB.csproj.GenerateResource.Cache
+E:\NIIT\MYB\MYB\obj\x86\Debug\MYB.csprojResolveAssemblyReference.cache
